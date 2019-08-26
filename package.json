@@ -1,0 +1,19 @@
+{
+  "name": "ploutos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "coinmarketcap-api": "3.0.1",
+    "firebase-admin": "8.4.0",
+    "sentiment": "5.0.2",
+    "twitter": "1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
