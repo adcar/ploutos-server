@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "coinmarketcap-api": "3.0.1",
-    "firebase-admin": "8.4.0",
+    "firebase-admin": "11.4.1",
     "sentiment": "5.0.2",
     "twitter": "1.7.1",
     "winston": "^3.2.1"
